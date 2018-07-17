@@ -328,3 +328,4 @@ Cope mappings:
 Just do following:
 * Remove `~/.vim_runtime`
 * Remove any lines that reference `.vim_runtime` in your `~/.vimrc`
+# vimrc
